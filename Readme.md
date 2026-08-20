@@ -101,4 +101,4 @@ validated, rather than parsed from raw text with `StrOutputParser`.
 ![Mathematics](assets/image3.png)
 
 ### General
-![General](image4.png)
+![General](assets/image4.png)
